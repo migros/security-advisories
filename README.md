@@ -1,2 +1,1 @@
-# security-advisories
-Migros Security Advisories
+# Migros Security Advisories
